@@ -1,0 +1,23 @@
+VERSION 13 REQUIRED PATHS
+/assets/104-paul-avenue/hero.jpg
+/assets/104-paul-avenue/photo-01.jpg
+/assets/104-paul-avenue/photo-02.jpg
+/assets/104-paul-avenue/photo-03.jpg
+/assets/104-paul-avenue/photo-04.jpg
+/assets/104-paul-avenue/photo-05.jpg
+/assets/104-paul-avenue/photo-06.jpg
+/assets/104-paul-avenue/photo-07.jpg
+/assets/104-paul-avenue/photo-08.jpg
+/assets/104-paul-avenue/photo-09.jpg
+/assets/104-paul-avenue/photo-10.jpg
+/assets/104-paul-avenue/photo-11.jpg
+/assets/104-paul-avenue/photo-12.jpg
+/assets/104-paul-avenue/photo-13.jpg
+/assets/104-paul-avenue/photo-14.jpg
+/assets/104-paul-avenue/photo-15.jpg
+/assets/104-paul-avenue/photo-16.jpg
+/assets/104-paul-avenue/photo-17.jpg
+/assets/104-paul-avenue/video-poster.jpg
+/assets/104-paul-avenue/walkthrough.mp4
+
+Version 17.3: 137-clay-street.html, property-137-clay-config.js, assets/137-clay-street/*
